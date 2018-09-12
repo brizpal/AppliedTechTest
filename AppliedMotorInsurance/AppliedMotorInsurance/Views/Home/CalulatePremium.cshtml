@@ -1,0 +1,25 @@
+﻿@model AppliedMotorInsurance.ViewModels.PolicyViewModel
+
+
+<div>
+
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h4 class="modal-title" id="myModalLabel">Policy Details</h4>
+    </div>
+
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayFor(model => model.driver.DriverName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.driver.DateOfBirth)
+        </dd>
+
+        
+
+    </dl>
+</div>

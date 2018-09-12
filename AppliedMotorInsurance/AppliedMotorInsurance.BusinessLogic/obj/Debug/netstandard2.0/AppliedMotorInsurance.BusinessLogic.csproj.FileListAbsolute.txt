@@ -1,0 +1,9 @@
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.BusinessLogic\bin\Debug\netstandard2.0\AppliedMotorInsurance.BusinessLogic.deps.json
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.BusinessLogic\bin\Debug\netstandard2.0\AppliedMotorInsurance.BusinessLogic.dll
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.BusinessLogic\bin\Debug\netstandard2.0\AppliedMotorInsurance.BusinessLogic.pdb
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.BusinessLogic\obj\Debug\netstandard2.0\AppliedMotorInsurance.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.BusinessLogic\obj\Debug\netstandard2.0\AppliedMotorInsurance.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.BusinessLogic\obj\Debug\netstandard2.0\AppliedMotorInsurance.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.BusinessLogic\obj\Debug\netstandard2.0\AppliedMotorInsurance.BusinessLogic.AssemblyInfo.cs
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.BusinessLogic\obj\Debug\netstandard2.0\AppliedMotorInsurance.BusinessLogic.dll
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.BusinessLogic\obj\Debug\netstandard2.0\AppliedMotorInsurance.BusinessLogic.pdb

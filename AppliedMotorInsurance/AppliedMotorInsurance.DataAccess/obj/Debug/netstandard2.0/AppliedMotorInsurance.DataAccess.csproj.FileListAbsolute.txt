@@ -1,0 +1,9 @@
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.DataAccess\bin\Debug\netstandard2.0\AppliedMotorInsurance.DataAccess.deps.json
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.DataAccess\bin\Debug\netstandard2.0\AppliedMotorInsurance.DataAccess.dll
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.DataAccess\bin\Debug\netstandard2.0\AppliedMotorInsurance.DataAccess.pdb
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.DataAccess\obj\Debug\netstandard2.0\AppliedMotorInsurance.DataAccess.csprojAssemblyReference.cache
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.DataAccess\obj\Debug\netstandard2.0\AppliedMotorInsurance.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.DataAccess\obj\Debug\netstandard2.0\AppliedMotorInsurance.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.DataAccess\obj\Debug\netstandard2.0\AppliedMotorInsurance.DataAccess.AssemblyInfo.cs
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.DataAccess\obj\Debug\netstandard2.0\AppliedMotorInsurance.DataAccess.dll
+C:\Users\Briz\Desktop\AppliedTechTest\AppliedMotorInsurance\AppliedMotorInsurance.DataAccess\obj\Debug\netstandard2.0\AppliedMotorInsurance.DataAccess.pdb
